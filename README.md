@@ -10,12 +10,25 @@ Startup Idea Analyzer helps users evaluate the potential of a business idea usin
 
 Users simply enter an idea, and the system generates:
 
-* 📊 Innovation Score
-* 📈 Market Insights
-* 🧠 Explainable AI Output
-* 📉 SWOT Analysis
-* 🏆 Competitor Mapping
-* 🎯 Business Strategy Suggestions
+## ✨ Features
+
+- 🔍 NLP-based Innovation Score  
+  → Evaluates how unique your startup idea is using semantic similarity  
+
+- 📊 Market Insights  
+  → Analyzes trends and relevance of the idea  
+
+- 📉 SWOT Analysis  
+  → Strengths, Weaknesses, Opportunities, Threats  
+
+- 🏆 Competitor Mapping  
+  → Identifies similar existing ideas and competition level  
+
+- 🎯 Business Strategy Suggestions  
+  → Helps in planning execution and market entry  
+
+- 📄 Downloadable PDF Report  
+  → Generate a complete analysis report including all insights in a structured PDF format  
 
 ---
 
