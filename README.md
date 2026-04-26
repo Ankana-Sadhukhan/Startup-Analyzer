@@ -12,23 +12,26 @@ Users simply enter an idea, and the system generates:
 
 ## ✨ Features
 
-- 🔍 NLP-based Innovation Score  
-  → Evaluates how unique your startup idea is using semantic similarity  
+- 🔍 **NLP-based Innovation Score**  
+  → Uses sentence embeddings to measure how unique and innovative a startup idea is  
 
-- 📊 Market Insights  
-  → Analyzes trends and relevance of the idea  
+- 📊 **Market Insights**  
+  → Analyzes trend-based relevance and demand of the idea  
 
-- 📉 SWOT Analysis  
-  → Strengths, Weaknesses, Opportunities, Threats  
+- 📉 **SWOT Analysis**  
+  → Breaks down Strengths, Weaknesses, Opportunities, and Threats  
 
-- 🏆 Competitor Mapping  
-  → Identifies similar existing ideas and competition level  
+- 🏆 **Competitor Analysis**  
+  → Identifies similar existing ideas and evaluates competition level  
 
-- 🎯 Business Strategy Suggestions  
-  → Helps in planning execution and market entry  
+- 📈 **Idea Similarity & Innovation Logic**  
+  → Uses semantic similarity to compare ideas with existing startup concepts  
 
-- 📄 Downloadable PDF Report  
-  → Generate a complete analysis report including all insights in a structured PDF format  
+- 🎯 **Pitch & Strategy Suggestions**  
+  → Helps in building startup pitch, execution plan, and market entry strategy  
+
+- 📄 **Downloadable PDF Report**  
+  → Generates a complete professional report including all insights for presentations and business use  
 
 ---
 
@@ -36,34 +39,6 @@ Users simply enter an idea, and the system generates:
 
 👉 **Watch Demo Video:**
 coming soon!!
-
----
-
-## ✨ Features
-
-* 🔍 **NLP-based Innovation Score**
-
-  * Uses sentence embeddings to measure uniqueness of ideas
-
-* 📊 **Explainable AI (XAI)**
-
-  * Provides reasoning behind scores and results
-
-* 📉 **SWOT Analysis**
-
-  * Strengths, Weaknesses, Opportunities, Threats
-
-* 🏆 **Competitor Analysis**
-
-  * Identifies similar existing ideas and competition level
-
-* 📈 **Market Insights**
-
-  * Uses trend-based logic for idea relevance
-
-* 🎯 **Pitch & Strategy Suggestions**
-
-  * Helps in building startup pitch and market entry strategy
 
 ---
 
