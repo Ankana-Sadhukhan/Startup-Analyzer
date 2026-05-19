@@ -158,7 +158,7 @@ Due to resource limitations (large NLP model), live deployment is not included.
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Ankana Sadhukhan**
 GitHub: https://github.com/Ankana-Sadhukhan
 
 ---
